@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wahyu Meidiska======================================================================================================================================I'm interested in learning fullstack developer----------------------------------------------a beginning that will never end except death, continue to struggle to add insight / knowledge, wait for me in the next 5 years,* 🌍  I'm based in indonesia* ✉️  You can contact me at [meidiskawahyu@gmail.com](mailto:meidiskawahyu@gmail.com)* 🧠  I'm learning without stopping
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wahyu Meidiska
+I'm interested in learning fullstack developer
+a beginning that will never end except death, continue to struggle to add insight / knowledge, wait for me in the next 5 years,* 🌍  I'm based in indonesia* ✉️  You can contact me at [meidiskawahyu@gmail.com](mailto:meidiskawahyu@gmail.com)* 🧠  I'm learning without stopping
 
 <a href="https://www.twitter.com/whymdska" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/whymdska?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
